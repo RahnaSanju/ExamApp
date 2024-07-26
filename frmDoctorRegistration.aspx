@@ -21,6 +21,23 @@
                 <td>
                     &nbsp;</td>
                 <td>
+                    &nbsp;</td>
+                <td>
+                    <asp:Label ID="Label9" runat="server" Font-Bold="True" Font-Size="Large" Text="Doctor Registration"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;</td>
+                <td>
+                    &nbsp;</td>
+                <td>
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;</td>
+                <td>
                     <asp:Label ID="Label8" runat="server" Text="Department"></asp:Label>
                 </td>
                 <td>
